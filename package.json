@@ -1,0 +1,35 @@
+{
+  "name": "couchdbDocGen",
+  "description": "Generates CouchDB documents for load testing.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/sbisbee/couchdbDocGen",
+  "author": {
+    "name": "Sam Bisbee",
+    "email": "sam@sbisbee.com",
+    "url": "http://www.sbisbee.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sbisbee/couchdbDocGen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sbisbee/couchdbDocGen/issues"
+  },
+  "licenses": [
+    {
+      "type": "Apache",
+      "url": "https://github.com/sbisbee/couchdbDocGen/blob/master/LICENSE-Apache"
+    }
+  ],
+  "main": "src/gen.js",
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "~0.3.11"
+  },
+  "keywords": []
+}
