@@ -19,6 +19,10 @@ exports.single = function(opts) {
     throw new Error('No size provided');
   }
 
+  if(typeof opts.size !== 'number') {
+    throw new Error('Invalid size provided (must be a integer).');
+  }
+
   doc = new Buffer(opts.size);
 
   offset += doc.write('{', 'utf8');
