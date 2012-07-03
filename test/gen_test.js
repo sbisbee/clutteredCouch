@@ -1,4 +1,4 @@
-var couchdbDocGen = require('../src/gen.js');
+var couchdbDocGen = require('../src/clutteredCouch.js');
 
 /*
   ======== A Handy Little Nodeunit Reference ========

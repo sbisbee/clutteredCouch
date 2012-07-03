@@ -1,8 +1,8 @@
 {
-  "name": "couchdbDocGen",
+  "name": "clutteredCouch",
   "description": "Generates CouchDB documents for load testing.",
   "version": "0.1.0",
-  "homepage": "https://github.com/sbisbee/couchdbDocGen",
+  "homepage": "https://github.com/sbisbee/clutteredCouch",
   "author": {
     "name": "Sam Bisbee",
     "email": "sam@sbisbee.com",
@@ -10,18 +10,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/sbisbee/couchdbDocGen.git"
+    "url": "git://github.com/sbisbee/clutteredCouch.git"
   },
   "bugs": {
-    "url": "https://github.com/sbisbee/couchdbDocGen/issues"
+    "url": "https://github.com/sbisbee/clutteredCouch/issues"
   },
   "licenses": [
     {
       "type": "Apache",
-      "url": "https://github.com/sbisbee/couchdbDocGen/blob/master/LICENSE-Apache"
+      "url": "https://github.com/sbisbee/clutteredCouch/blob/master/LICENSE"
     }
   ],
-  "main": "src/gen.js",
+  "main": "src/clutteredCouch.js",
   "engines": {
     "node": ">= 0.6.0"
   },

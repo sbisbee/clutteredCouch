@@ -1,6 +1,6 @@
-CouchDB Document Generator
-==========================
+Cluttered Couch
+===============
 
-Generates documents that you can then stuff into CouchDB. Especially useful
-when building load tests when you don't care about what the data looks like,
-just its size.
+Generates "random" documents that you can then stuff into CouchDB. Especially
+useful when building load tests when you don't care about what the data looks
+like, just its size.
