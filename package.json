@@ -1,5 +1,5 @@
 {
-  "name": "clutteredCouch",
+  "name": "clutteredcouch",
   "description": "Generates CouchDB documents for load testing.",
   "version": "0.1.0",
   "homepage": "https://github.com/sbisbee/clutteredCouch",
